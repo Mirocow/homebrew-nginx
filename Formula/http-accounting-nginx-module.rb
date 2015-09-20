@@ -6,6 +6,6 @@ class HttpAccountingNginxModule < Formula
   sha256 "4ee91b5c2f816489eb94fc1cfe4e1079b11809b82521abcfd9188b8e38a95a51"
 
   def install
-    (share+"http-accounting-module").install Dir["*"]
+    (share+"http-accounting-nginx-module").install Dir["*"]
   end
 end
