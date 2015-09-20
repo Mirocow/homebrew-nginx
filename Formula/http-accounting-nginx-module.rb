@@ -1,4 +1,4 @@
-class HttpAccountingModule < Formula
+class HttpAccountingNginxModule < Formula
   desc "Add traffic stat function to nginx. Useful for http accounting based on nginx configuration logic ( server / location / or anything else)."
   homepage "https://raw.githubusercontent.com/Lax/ngx_http_accounting_module/master/README.md"
   url "https://github.com/Lax/ngx_http_accounting_module/archive/master.zip"
