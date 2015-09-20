@@ -94,6 +94,7 @@ class NginxFull < Formula
       "var-req-speed" => "Compile with support for Var Request-Speed module",
       "websockify" => "Compile with support for websockify module",
       "xsltproc" => "Compile with support for XSLT transformations",
+      "http-accounting" => "Compile with support for HTTP Accounting module",
     }
   end
 
